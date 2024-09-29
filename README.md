@@ -8,7 +8,7 @@ This project replicates the user interface of Netflix, focusing on layout and de
 
 ## Features
 
-- Fully responsive design
+- Fully responsive design (improvements needed)
 - Navigation bar with Netflix-like styling
 - Structured layout mimicking the Netflix homepage
 
@@ -20,8 +20,12 @@ This project replicates the user interface of Netflix, focusing on layout and de
 ## Future Enhancements
 
 - Additional sections to complete the layout
-- Optimization for various screen sizes
+- Optimization for responsiveness across various screen sizes
 - Potential integration of JavaScript for interactivity
+
+## Live Demo
+
+The website is hosted at: [Netflix Clone](https://lighthearted-genie-687d95.netlify.app/)
 
 ---
 
